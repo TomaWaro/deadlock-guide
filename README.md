@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Deadlock Learning Guide
 
-## Getting Started
+This is a [Next.js](https://nextjs.org) project designed to help players master the game mechanics of Deadlock.
+
+## 🚀 Getting Started
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📚 Adding a New Guide
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+You can easily add new guides without writing code using our Markdown-to-JSON system.
 
-## Learn More
+### 1. Create the Guide File
+Copy the template file `guides/TEMPLATE.md` to a new file, for example `guides/my-new-guide.md`.
 
-To learn more about Next.js, take a look at the following resources:
+### 2. Edit Content
+Open your new file and fill in the metadata and sections.
+- **Metadata**: Top of the file (Title, ID, Description).
+- **Sections**: Use `## Section X` headers.
+- **Media**: Add YouTube links or Image paths under `### Media`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Example format:
+```markdown
+# Guide Metadata
+ID: my-guide
+Title: My Great Guide
+Order: 5
+---
+## Section 1: Introduction
+### Content
+Explain your topic here.
+### Media
+- YouTube: https://youtu.be/...
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 3. Import the Guide
+Run the import script to add it to the app:
+
+```bash
+npm run add-guide guides/my-new-guide.md
+```
+
+This will automatically update `public/data/guides.json`.
+
+## 🛠 Tech Stack
+
+- **Next.js 16** (App Router)
+- **Tailwind CSS v4**
+- **TypeScript**
+- **LocalStorage** for persistence
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new).

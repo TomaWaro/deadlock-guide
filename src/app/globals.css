@@ -1,26 +1,25 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+    --color-deadlock-dark: #121214;
+    --color-deadlock-panel: #1e1e24;
+    --color-deadlock-amber: #eebb55;
+    --color-deadlock-amber-glow: #ffcc00;
+    --color-deadlock-green: #66ff99;
+    --color-deadlock-red: #ff4444;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@layer base {
+    body {
+        @apply bg-deadlock-dark text-gray-200 antialiased;
+        background-image: radial-gradient(circle at 50% 0%, #2a2a35 0%, #121214 70%);
+        min-height: 100vh;
+    }
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer utilities {
+    .text-glow {
+        text-shadow: 0 0 10px rgba(238, 187, 85, 0.3);
+    }
 }

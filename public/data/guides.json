@@ -1,0 +1,194 @@
+{
+  "guides": [
+    {
+      "id": "movement-fundamentals",
+      "title": "Fondamentaux de Déplacement Avancé",
+      "description": "Maîtrisez les techniques de mouvement essentielles de Deadlock avec des explications détaillées et vidéos",
+      "order": 1,
+      "sections": [
+        {
+          "id": "bunnyhopping--dash-jump-sliding",
+          "title": "Bunnyhopping / Dash-Jump Sliding",
+          "order": 1,
+          "content": "**Input:** Shift → Espace → Maintenir Crouch (+ Espace répétés pour continuer)\n\n**Effet:** La technique fondamentale pour étendre vos déplacements. Après un dash-jump, maintenez crouch et appuyez sur espace en l'air pour continuer le momentum. Vous pouvez enchaîner plusieurs fois pour couvrir des distances énormes avec peu de stamina.\n\n**Variantes:**\n- Avant: W + Shift → Espace → Crouch\n- Arrière: S + Shift → Espace → Crouch\n- Latéral: A/D + Shift → Espace → Crouch\n\n**Pro Tip:** Ne laissez pas la glissade s'éterniser à la fin, ça vous ralentit. Stoppez au moment optimal.",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://youtu.be/NiLOMoaw4RY",
+              "timestamp": 39
+            }
+          ]
+        },
+        {
+          "id": "sliding-in-environment-glissades-sur-rampes",
+          "title": "Sliding in Environment (Glissades sur Rampes)",
+          "order": 2,
+          "content": "**Input:** Maintenir Crouch sur n'importe quelle pente/rampe/escalier\n\n**Effet:** Utilisez les pentes, escaliers et rampes de la map pour glisser et maintenir votre élan. Bonus: munitions infinies pendant la glissade. C'est crucial pour traverser les lanes rapidement.\n\n**Exemples d'utilisation:**\n- Descendre des rampes pour gagner de la vitesse\n- Monter des escaliers en glissant pour conserver l'élan\n- Combiner avec dash-jump pour des rotations ultra-rapides\n\n**Pro Tip:** Les héros avec des limitations de munitions peuvent abuser de cet avantage pour étendre leur magazine pendant les glissades.",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://youtu.be/NiLOMoaw4RY",
+              "timestamp": 135
+            }
+          ]
+        },
+        {
+          "id": "dash-cancelling",
+          "title": "Dash Cancelling",
+          "order": 3,
+          "content": "**Input:** Shift (en cours) → Maintenir Crouch immédiatement\n\n**Effet:** Vous pouvez annuler votre dash avant qu'il soit complètement exécuté en glissant. Cela arrête votre momentum et vous permet de vous positionner précisément.\n\n**Utilité:** \n- Sécuriser un CS sans overextend en lane\n- Précision de positionnement au melee\n- Ne pas dépasser votre cible\n\n**⚠️ Attention:** Ne confondez pas avec Dash Sliding (qui extend le momentum). Dash Cancelling arrête le mouvement.",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://youtu.be/NiLOMoaw4RY",
+              "timestamp": 192
+            }
+          ]
+        },
+        {
+          "id": "feeling-out-movement-pratique-et-intgration",
+          "title": "Feeling Out Movement (Pratique et Intégration)",
+          "order": 4,
+          "content": "**Concept:** Développer votre compréhension instinctive du mouvement en pratiquant dans différentes situations.\n\n**Points clés:**\n- Cherchez à combiner les techniques basiques dans vos rotations\n- Observez les joueurs high-level pour voir comment ils chaînent les mouvements\n- Pratiquez en conditions de jeu, pas juste en training ground\n- Trouvez où et quand utiliser chaque technique\n\n**À faire:**\n- Testez dash-jump-slide dans différentes directions (avant, arrière, côté)\n- Expérimentez sur les rampes et les escaliers\n- Combinez glissades et dashes naturellement",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://youtu.be/NiLOMoaw4RY",
+              "timestamp": 270
+            }
+          ]
+        },
+        {
+          "id": "zipline-momentum-conservation-zmc",
+          "title": "Zipline Momentum Conservation (ZMC)",
+          "order": 5,
+          "content": "**Sortie Standard (Mauvaise):** Espace pour quitter = perte d'élan\n\n**Sortie Optimale (ZMC):** Crouch (lâcher) → Shift (dash) → Maintenir Crouch (slide)\n\n**Effet:** Quand vous quittez une tyrolienne avec Crouch, vous avez ZÉRO friction aérienne pendant 2 secondes. Cela vous permet de conserver l'élan et d'aller beaucoup plus loin.\n\n**Advanced:** Certains héros avec des abilités de mobilité verrouillées (comme Lash) peuvent aussi conserver leur momentum avec cette technique.\n\n**Exemple de chaîne optimale:**\n1. Montez la tyrolienne\n2. Quittez avec Crouch (pas Espace)\n3. Appuyez sur Shift (dash) immédiatement\n4. Maintenez Crouch pour glisser à l'atterrissage\n5. Continuez avec jump-slide si nécessaire",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://youtu.be/NiLOMoaw4RY",
+              "timestamp": 310
+            }
+          ]
+        },
+        {
+          "id": "useful-wall-jump-tech",
+          "title": "Useful Wall Jump Tech",
+          "order": 6,
+          "content": "**Input:** Espace x2 contre un mur, puis Melee (touche melee) immédiatement après le wall jump\n\n**Effet:** Wall Jump seul ne crée pas assez d'espace. Enchaîner un melee juste après le wall jump vous propulse plus haut et plus loin sans consommer de stamina.\n\n**Utilité:**\n- Échapper aux ennemis en créant de la distance\n- Accéder à des zones hautes sans stamina\n- Sauver votre vie quand vous êtes out of stamina\n\n**Timing critique:** Melee PENDANT le wall jump, pas à la fin. C'est la clé du succès.\n\n**Variante avancée:** Combiner wall jump + melee sur rope pour des mouvements encore plus fluides.",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://youtu.be/NiLOMoaw4RY",
+              "timestamp": 414
+            }
+          ]
+        },
+        {
+          "id": "highly-advanced-movement-tech",
+          "title": "HIGHLY Advanced Movement Tech",
+          "order": 7,
+          "content": "**Chaînes avancées:**\n\n1. **Wall Jump + Zipline:** Sauter d'une zipline → Espace x2 (wall jump) → Momentum extension\n2. **Double Bounce Pad:** Bounce pad → Espace (bunny hop) × 2 → Espace pour éviter les obstacles\n3. **Zipline → Wall Jump → Melee:** Crouch (quitter zipline) → Espace x2 (wall jump) → Melee pour continuer\n4. **Cross-Lane Wall Jump:** Shift → Espace (dash jump) → Espace x2 (wall jump) → Melee pour traverser\n\n**Caractéristiques:**\n- Demandent beaucoup de pratique\n- Permettent des rotations incroyablement rapides\n- Peuvent surprendre les ennemis\n\n**À noter:** Ces techniques sont flashy mais optionnelles. Maîtrisez les bases avant de les apprendre.",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://youtu.be/NiLOMoaw4RY",
+              "timestamp": 483
+            }
+          ]
+        },
+        {
+          "id": "actionable-movement-techniques-applicables-immdiatement",
+          "title": "Actionable Movement (Techniques Applicables Immédiatement)",
+          "order": 8,
+          "content": "**Chaîne Simple et Efficace:**\n\n**Rotation Standard:**\n1. Zipline: Crouch (quitter)\n2. Shift (dash)\n3. Maintenir Crouch (slide)\n4. Couvrez une énorme distance entre la tyrolienne et votre destination\n\n**Traversée de Lane:**\n1. Montez la zipline\n2. Appuyez Crouch pour quitter\n3. Appuyez Shift (dash) immédiatement\n4. Maintenez Crouch à l'atterrissage (slide)\n5. Optionnel: Espace pour jump, puis Crouch pour relancer le slide\n\n**Pratique recommandée:**\n- Testez ces chaînes sur chaque zipline de la map\n- Utilisez-les dans vos parties réelles, pas juste en training\n- Mesurez votre progression en temps de traversée",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://youtu.be/NiLOMoaw4RY",
+              "timestamp": 573
+            }
+          ]
+        },
+        {
+          "id": "examples-of-advanced-movement-in-the-map",
+          "title": "Examples of Advanced Movement in the Map",
+          "order": 9,
+          "content": "**Applications réelles sur la map:**\n\n**Scenario 1 - Rotation Rapide:**\nUtilisez Shift → Espace → Crouch pour traverser rapidement les lanes.\n\n**Scenario 2 - Escape :**\nQuand vous êtes pourchassé, combinez Espace x2 (wall jump) + Melee pour créer une distance infranchissable.\n\n**Scenario 3 - Map Traversal:**\nChaînez Crouch (zipline) → Shift (dash) → Espace x2 (wall jump) → Melee pour accéder aux zones hautes.\n\n**Scenario 4 - Rota Efficace:**\nSecret shop escape: Espace x2 (wall jump) → Melee pour gagner de la hauteur sans stamina.\n\n**Key Takeaway:** Ces mouvements vous permettent de:\n- Naviguer la map plus vite que vos ennemis\n- Échapper en dernier recours\n- Chaser les ennemis en retraite\n- Créer des angles d'attaque inattendus",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://youtu.be/NiLOMoaw4RY",
+              "timestamp": 607
+            }
+          ]
+        },
+        {
+          "id": "verticality--mantling-avanc---piggy",
+          "title": "Verticality & Mantling (Avancé - Piggy)",
+          "order": 10,
+          "content": "**Mantle Gliding:** Espace (escalade) → Crouch (dès que vous quittez le rebord)\n\nDonne un petit boost de vitesse quand vous quittez un rebord en escaladant. La glissade conserve votre momentum.\n\n**Wall Bouncing Directional:** Espace x2 contre un mur + direction\n\n- W vers le mur = rebond vers le haut\n- Rien = rebond latéral\n- A/D = rebond sur le côté\n\n**Fast Climbing:** W + Maintenir Espace contre une paroi verticale\n\nGrimpe 2x plus vite que l'escalade normale. Combine wall jump et escalade pour accès rapide aux zones hautes.\n\n**Heavy Melee as Mobility:** Appuyer sur touche melee après un wall jump\n\nLe heavy melee prolonge votre momentum vers le haut et crée de la distance sans stamina.",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=LT_NIHF_25A&t=242s",
+              "timestamp": 0
+            }
+          ]
+        },
+        {
+          "id": "advanced-movement-tech-piggy",
+          "title": "Advanced Movement Tech (Piggy)",
+          "order": 11,
+          "content": "**Super Gliding:** Espace (escalade) → Crouch (mantle slide) → Espace (jump)\n\nVous glissez en quittant un rebord sans rien derrière. Donne plus de distance et de hauteur qu'un simple escalade.\n\n**Edge Boosting:** Espace quand vous arrivez sur une arête/coin en sliding\n\nPermet de wall jump sur des surfaces inclinées pour gagner du momentum. À pratiquer sur chaque coin de la map.\n\n**Corner Boosting:** Proche d'un coin avec du momentum → Contact = forward boost\n\nN'importe quel coin dans le jeu peut vous envoyer en avant et vous faire garder votre vélocité.\n\n**Edge Gliding into Corner Boost:** Espace (escalade) → Crouch (slide) → Contact coin = Momentum énorme\n\nCombinez la vélocité du slide avec le corner boost pour des propulsions énormes.\n\n**Vent Wall Jump:** Espace x2 (wall jump) + Pad au même moment\n\nSeulement 2 spots sur la map (près de l'Urn). Combine le momentum du wall jump avec celui du pad.",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=LT_NIHF_25A&t=569s",
+              "timestamp": 0
+            }
+          ]
+        },
+        {
+          "id": "movement-routes--map-spots-piggy",
+          "title": "Movement Routes & Map Spots (Piggy)",
+          "order": 12,
+          "content": "**Routes principales pour rotations rapides:**\n\n**Secret Shop → Lane:**\nCorner boost → Espace (escalade) → Crouch (slide) → Corner boost × 3 = Momentum chaîné\n\n**Blue → Green (Quick Rotation):**\nZipline → Shift → Espace (dash jump) → Corner boost × 2 → Espace (bunny hop) = Ultra-rapide\n\n**Green → Blue (Alternative):**\nZipline → Shift → Espace (dash jump) → Corner boost → Espace → Crouch (mantle slide) → Corner boost → Pad\n\n**Yellow → Other Lane:**\nEspace (bunny hop) = Arrivée très vite\nAlternative: Espace → Corner boost → Fling vers l'autre lane\n\n**Escape Route (Chased):**\nEspace (escalade) → Crouch (mantle slide) → Espace x2 (wall jump) → Melee = Fuite rapide vers le haut\n\n**Lane Positioning (Billboard Tricks):**\nSign/Billboard next to wall → Espace (escalade) → Crouch (mantle slide) → Espace x2 (wall jump) pour jump par-dessus les ennemis\n\n**Dash Jump → Corner Boost → Melee:**\nShift → Espace (dash jump) → Contact coin = Accès rapide aux zones hautes",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=LT_NIHF_25A&t=814s",
+              "timestamp": 0
+            }
+          ]
+        },
+        {
+          "id": "fondamentaux-piggy-refresh",
+          "title": "Fondamentaux (Piggy Refresh)",
+          "order": 13,
+          "content": "**Points clés à retenir:**\n\n**Velocity Meter:** C'est la clé de tout. Votre vitesse détermine votre capacité à traverser la map rapidement.\n\n**Stamina Management:** \n- Double Jump (Espace x2) = 1 bar\n- Dash (Shift) = 1 bar\n- Wall Jump (Espace x2 mur) = 0 bar (GRATUIT!)\n- Slide (Crouch) = 0 bar (GRATUIT!)\n\n**Hero Bucket System:** \n- Ivy = Fast bucket (Shift = vitesse très rapide)\n- Paige = Medium bucket (Shift = vitesse moyenne)\n- Chaque héro a sa propre vitesse de dash\n\n**Infinite Ammo While Sliding:** Maintenez Crouch sur les pentes pour avoir des munitions infinies.\n\n**Velocity = The Key:** Tout tourne autour de maintenir et accumuler de la vélocité.",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=LT_NIHF_25A&t=26s",
+              "timestamp": 0
+            }
+          ]
+        },
+        {
+          "id": "tips-gnraux--progression",
+          "title": "Tips Généraux & Progression",
+          "order": 14,
+          "content": "**Conseils pour progresser:**\n\n✅ **Pratiquez régulièrement** - Ces mouvements demandent de la muscle memory\n\n✅ **Commencez par les bases** - Maîtrisez Shift → Espace → Crouch avant d'essayer les techniques avancées\n\n✅ **Regardez des replays** - Observez les joueurs high-level pour comprendre QUAND utiliser chaque technique\n\n✅ **Testez en scénarios** - Training ground d'abord, puis en games réelles\n\n✅ **Adaptez à votre héro** - Chaque héro a des vitesses et des propriétés différentes\n\n✅ **L'efficacité > Le flashy** - Une rotation simple et rapide vaut mieux qu'une technique complexe mal exécutée\n\n✅ **Velocity c'est la vie** - Maintiens et accumule ta vélocité à tout moment\n\n✅ **Explore les coins** - Chaque coin/arête peut être utilisé pour du corner boost\n\n✅ **Chaîne tes mouvements** - C'est en combinant les bases que tu créeras des rotations pro\n\n✅ **Pratique = Maîtrise** - Plus tu pratiques, plus les mouvements deviennent naturels",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://youtu.be/NiLOMoaw4RY",
+              "timestamp": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
