@@ -189,6 +189,145 @@
           ]
         }
       ]
+    },
+    {
+      "id": "kelvin-arctic-beam",
+      "title": "Kelvin \"Arctic Beam\" Utility Build",
+      "description": "Jouez Kelvin comme un carry utilitaire en maximisant le Arctic Beam pour des dégâts colossaux et le Frozen Shelter pour le contrôle total des combats.",
+      "order": 2,
+      "sections": [
+        {
+          "id": "ap-priority-ordre-des-sorts",
+          "title": "AP Priority (Ordre des Sorts)",
+          "order": 1,
+          "content": "**Priorité:** Arctic Beam (3) → Frozen Shelter (4) → Grenades après\n\n**Build Philosophy:** Contrairement aux builds classiques qui maxent la grenade ou le dôme, ce build se concentre sur le rayon pour le DPS et le dôme pour l'utilité complète.\n\n**AP Allocation:**\n- 3 points: Arctic Beam (devient votre source principale de dégâts)\n- 2 points: Frozen Shelter (contrôle de terrain + utility)\n- 1 point: Grenades (heal seulement, pas damage)\n\n**Key Difference:** Les grenades sont utilisées UNIQUEMENT pour soigner, pas pour infliger des dégâts.",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=Mtfx2rcvBzQ",
+              "timestamp": 0
+            }
+          ],
+          "tips": [
+            "N'utilisez pas vos points pour les grenades en priorité",
+            "Le rayon devient votre source principale de dégâts dès le Tier 2",
+            "Grenades = heal tool, pas damage tool"
+          ]
+        },
+        {
+          "id": "early-game-core-laning-phase",
+          "title": "Early Game Core (Laning Phase)",
+          "order": 2,
+          "content": "**Items Essentiels (Lane Phase):**\n\n1. **Guardian Ward** \n   - Essentiel pour la survie de votre équipe sur la ligne\n   - Place early, protège tout le positionnement\n\n2. **Restorative Barrel**\n   - Donne -35% fire rate aux ennemis ciblés\n   - CUMULE avec les -40% de votre Arctic Beam\n   - Résultat: Les ennemis ne peuvent VIRTUELLEMENT PLUS TIRER quand vous les visez\n   - Permet de \"jump\" sur les ennemis et les neutraliser complètement\n\n3. **Extra Charge**\n   - Charge supplémentaire de grenade de soin\n   - Sustain augmenté en lane\n\n**Playstyle Lane:**\n- Guardian Ward = Protection passive équipe\n- Restorative Barrel = Offensive utility (debuff ennemi)\n- Grenades = Sustain heal uniquement\n- Arctic Beam = Pressure damage",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=Mtfx2rcvBzQ",
+              "timestamp": 15
+            }
+          ],
+          "tips": [
+            "Les grenades sont utilisées uniquement pour le soin, pas pour les dégâts",
+            "Restorative Barrel + Arctic Beam slow = ennemi totalement neutralisé",
+            "Utilisez le dôme pour les plays défensives seulement en lane"
+          ]
+        },
+        {
+          "id": "mid-game-power-spike-burst-spirit",
+          "title": "Mid-Game Power Spike (Burst Spirit)",
+          "order": 3,
+          "content": "**Combo Principal: Arcane Surge + Tier 2 Arctic Beam**\n\n**Effet:** Une fois Rayon au Tier 2 + Arcane Surge achetés = ~800 damage burst rapide\n\n**Sequence d'Exécution:**\n1. Activez Arcane Surge juste AVANT de lancer Arctic Beam (touche 3)\n2. Lancez le rayon immédiatement après\n3. Dégâts explosent avec Arcane Surge multiplier\n\n**Items Mid-Game:**\n- **Arcane Surge** (Premier item Spirit) = Burst multiplier\n- **Mystic Vulnerability** = Debuff ennemis, augmente vos dégâts\n- **Healing Booster** = Augmente régénération PV dans le dôme\n- **Rapid Recharge** = Spam supplémentaire grenades heal\n\n**Timing:**\n- Vous n'êtes INVULNÉRABLE qu'avec le dôme\n- Exploitez le Tier 2 Arctic Beam pour burst quand dôme actif\n- Utilisez Rapid Recharge pour maintenir grenade cooldown bas",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=Mtfx2rcvBzQ",
+              "timestamp": 40
+            }
+          ],
+          "tips": [
+            "Activez Arcane Surge AVANT de lancer rayon = timing critique",
+            "Rapid Recharge permet spam grenades heal sur alliés",
+            "Mystic Vulnerability = première priorité debuff",
+            "Healing Booster = passive regen dans dôme"
+          ]
+        },
+        {
+          "id": "late-game-mastery-double-dome-strategy",
+          "title": "Late Game Mastery (Double Dome Strategy)",
+          "order": 4,
+          "content": "**La Stratégie \"Double Dôme\" = Win Condition:**\n\n**Étape 1: Warpstone**\n- Permet téléportation instantanée\n- Utilisé pour placer dôme parfait et sauver allié\n- Activation tactique de position\n\n**Étape 2: Refresher**\n- L'item ULTIME pour Kelvin\n- Séquence: Posez dôme 1 → Attendez fin → Utilisez Refresher → Posez dôme 2\n- Double dôme coverage = zone de contrôle immense\n\n**Étape 3: Expansions**\n- **Expansion Items:** Agrandissez zone dôme\n- **Duration Items:** Rallongez durée dôme\n- Résultat: Dôme couvre zone MASSIVE pour durée LONGUE\n\n**Item Priority (Late Game):**\n1. Warpstone (teleport positioning)\n2. Refresher (double dôme enabler)\n3. Superior Cooldown / Transcendent Cooldown (cooldown reduction)\n4. Expansion (dôme radius)\n5. Duration (dôme longevity)\n\n**Double Dôme Execution:**\n- Dôme 1: Cover team fight initial\n- Refresher ready: Use immediately after Dome 1 ends\n- Dôme 2: Re-cover pour teamfight extension\n- Result: 20+ secondes de protection continue (2 dômes back-to-back)",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=Mtfx2rcvBzQ",
+              "timestamp": 80
+            }
+          ],
+          "tips": [
+            "Double dôme permet de gagner PRESQUE N'IMPORTE QUEL combat autour du Mid Boss",
+            "Superior + Transcendent Cooldown = essential pour speedrun Refresher",
+            "Placement Warpstone = instant teleport pour dôme parfait",
+            "Dôme coverage = meilleure défense Kelvin"
+          ]
+        },
+        {
+          "id": "adaptability--situational-utility",
+          "title": "Adaptability & Situational Utility",
+          "order": 5,
+          "content": "**Core Build Fixe (Sections 1-4), Puis Adapter:**\n\nAprès build noyau de base, achetez items utilitaires SELON LES ENNEMIS:\n\n**Against High Healing Enemies:**\n- **Heal Bane:** Réduit efficacité heal ennemi\n- Priorité: Si ennemi héros soigneur ou self-heal high\n\n**Against Mobile Heroes:**\n- **Slowing Hex:** Slow supplémentaire pour catch\n- Priorité: Versus Ivy, ultra-mobiles\n\n**Against Flying Heroes:**\n- **Knockdown:** Knockback pour ground flying ennemis\n- Priorité: Versus Warden, flying characters\n\n**Against Gun-Based Heroes:**\n- **Disarming Hex:** Désarme tirs directs (M1)\n- Priorité: Versus gun-heavy comps (Haze, etc)\n\n**Late Game Survival:**\n- **Diviner's Kevlar:** Massive cleanse + armor\n- Priorité: Late game 5v5 fights, cleanse CC chains\n\n**Wave Management:**\n- **Fix the Waves:** Manage minion waves\n- Technique: Maintain pressure, don't let enemies scale free\n\n**Decision Making:**\n- Ne suivez pas liste rigide\n- Regardez 5 ennemis\n- Achetez le counter spécifique\n- Flex build per situation",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=Mtfx2rcvBzQ",
+              "timestamp": 120
+            }
+          ],
+          "tips": [
+            "Regardez les héros adverses AVANT d'acheter utility items",
+            "Hex items > Spirit items si matchup difficile",
+            "Diviner's Kevlar = late game insurance",
+            "Wave management = maintenir pression economique"
+          ]
+        },
+        {
+          "id": "build-path-summary-quick-reference",
+          "title": "Build Path Summary (Quick Reference)",
+          "order": 6,
+          "content": "**Early Game (0-8 min):**\n1. Guardian Ward\n2. Restorative Barrel\n3. Extra Charge\n4. Start AP: Arctic Beam (3 points)\n\n**Mid Game (8-18 min):**\n1. Arcane Surge (first spirit item)\n2. Tier 2 Arctic Beam complete\n3. Mystic Vulnerability (debuff)\n4. Healing Booster\n5. Rapid Recharge\n6. AP: Frozen Shelter (2 points)\n\n**Late Game (18+ min):**\n1. Warpstone (teleport)\n2. Refresher (double dôme)\n3. Superior/Transcendent Cooldown (CDR spam)\n4. Expansion + Duration (dôme coverage)\n5. Utility items per matchup\n6. AP: Grenades last (1 point)\n\n**Flexible Adjustments:**\n- Swap items based on enemy team composition\n- Prioritize counters over rigid build order\n- Wave management throughout all phases",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=Mtfx2rcvBzQ",
+              "timestamp": 0
+            }
+          ],
+          "tips": [
+            "Build path is flexible, adapt to enemies",
+            "Early = Utility, Mid = Damage, Late = Control",
+            "Double dôme strategy = teamfight win condition",
+            "Always scout enemy comp before item purchases"
+          ]
+        },
+        {
+          "id": "playstyle--role-understanding",
+          "title": "Playstyle & Role Understanding",
+          "order": 7,
+          "content": "**Analogie:** Jouer ce build Kelvin = Être architecte de champ de bataille\n\nContrairement aux joueurs qui jettent grenades au hasard et posent dômes réactifs:\n\n**Your Approach:**\n- Construire zones de sécurité IMPÉNÉTRABLES (dômes)\n- Utiliser rayon comme LASER DE PRÉCISION pour damage\n- Soigner alliés strategiquement avec grenades\n\n**Decision Framework:**\n1. **Lane Phase:** Guardian Ward protection + Restorative Barrel oppression\n2. **Mid Game:** Arcane Surge burst combos when teammate in danger\n3. **Late Game:** Double dôme control = teamfight orchestration\n4. **Throughout:** Grenades = heal utility, not damage source\n\n**Team Win Condition:**\n- Équipe protégée dans dôme (double if possible)\n- Ennemis slow + debuff (Restorative + Mystic)\n- Dégâts massifs via Arctic Beam spam\n- Victory = Field control mastery",
+          "media": [
+            {
+              "type": "youtube",
+              "url": "https://www.youtube.com/watch?v=Mtfx2rcvBzQ",
+              "timestamp": 0
+            }
+          ],
+          "tips": [
+            "Kelvin = Support carry hybrid (not pure support)",
+            "Priorité: Dôme placement > Grenade spam",
+            "Arctic Beam = main damage tool (maximize it)",
+            "Be the architect, not the grenadier"
+          ]
+        }
+      ]
     }
   ]
 }
